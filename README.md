@@ -1,3 +1,5 @@
+<img src="https://64.media.tumblr.com/a8a4a5b6cbeaef45b23905ecfb9bf673/tumblr_p5at0uRbDC1x8dkuto1_500.gifv" style="width: 100%;">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm Om</h1>
 <h3 align="center">Passionate Learner of Data Science, AI/ML, and the Art of Unleashing Insights</h3>
