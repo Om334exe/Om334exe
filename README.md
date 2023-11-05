@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om334exe&label=Profile%20views&color=0e75b6&style=flat" alt="om334exe" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/Regimen-transparent-KctUjWpu9LeX7KL5aN">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
